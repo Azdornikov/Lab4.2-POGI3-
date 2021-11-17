@@ -6,8 +6,12 @@ namespace Lab4._2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello World!");
+            
+        }
+
+        static double add(double A, double B)
+        {
+            return A + B;
         }
     }
 }
