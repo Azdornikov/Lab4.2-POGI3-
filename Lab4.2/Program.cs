@@ -6,8 +6,8 @@ namespace Lab4._2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Введите B:");
+            double b = Convert.ToDouble(Console.ReadLine());
         }
     }
 }
