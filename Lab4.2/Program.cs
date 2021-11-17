@@ -18,6 +18,12 @@ namespace Lab4._2
         static double add(double A, double B)
         {
             return A + B;
+            
+        }
+
+        static double div(double A, double B)
+        {
+            return A / B;
         }
     }
 }
