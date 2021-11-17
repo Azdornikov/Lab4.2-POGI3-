@@ -12,6 +12,11 @@ namespace Lab4._2
           
             Console.WriteLine("Введите B:");
             double b = Convert.ToDouble(Console.ReadLine());
+
+            Console.WriteLine("\n" + add(a, b));
+            Console.WriteLine(sub(a, b));
+            Console.WriteLine(multiply(a, b));
+            Console.WriteLine(div(a, b));
         }
 
         static double multiply(double A, double B)
