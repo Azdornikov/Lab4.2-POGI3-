@@ -8,6 +8,9 @@ namespace Lab4._2
         {
             Console.WriteLine("Введите A:");
             double a = Convert.ToDouble(Console.ReadLine());
+          
+            Console.WriteLine("Введите B:");
+            double b = Convert.ToDouble(Console.ReadLine());
         }
 
         static double sub(double A, double B)
