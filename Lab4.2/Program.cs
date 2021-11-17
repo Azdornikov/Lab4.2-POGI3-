@@ -6,7 +6,8 @@ namespace Lab4._2
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("Введите A:");
+            double a = Convert.ToDouble(Console.ReadLine());
         }
 
         static double add(double A, double B)
