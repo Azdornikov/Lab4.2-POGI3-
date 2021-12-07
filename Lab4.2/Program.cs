@@ -26,7 +26,7 @@ namespace Lab4._2
 
         static double multiply(double A, double B)
         {
-            return A + B;
+            return A * B;
         }
 
         static double div(double A, double B)
