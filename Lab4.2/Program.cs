@@ -24,7 +24,7 @@ namespace Lab4._2
             return A - B;
         }
 
-        static double add(double A, double B)
+        static double multiply(double A, double B)
         {
             return A + B;
         }
