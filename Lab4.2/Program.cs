@@ -9,9 +9,9 @@ namespace Lab4._2
 
         }
 
-        static double multiply(double A, double B)
+        static double add(double A, double B)
         {
-            return A * B;
+            return A + B;
         }
     }
 }
